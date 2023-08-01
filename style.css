@@ -1,0 +1,24 @@
+#header,
+#prompt {
+    display: flex;
+    justify-content: center;
+}
+
+#buttons {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 100px;
+}
+
+#scores {
+    border: 1px solid;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 100px;
+}
+
+#reset {
+    margin-left: 48.3%;
+    margin-top: 100px;
+}
+
